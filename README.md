@@ -5,9 +5,10 @@ In case you're interested with me, i'm a person who is always curious about new 
 Fun fact time! I'm a fast learner and strong-willed person, so don't be shy to connect with me ;D
 
 
+<!---
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=arumkinanthi&theme=algolia&show_icons=true)](https://github.com/arumkinanthi/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=arumkinanthi&theme=algolia&show_icons=true)](https://github.com/arumkinanthi)
-
+--->
 <!---
 arumkinanthi/arumkinanthi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
