@@ -1,6 +1,6 @@
 ## Hi, Kinan is here! What are you looking for?
 
-In case you're interested with me, i'm a person who is always curious about new things, especially if it's about big data and its implementation. My favorite things about me are i'm a fun person and always addicted to food. I'm currently studying to become a qualified data engineer at Alterra Academy by PT. Marka Persada Kreasi. If you're willing to reach me up, kindly hit me up on mail: arumkinanthi06@gmail.com
+In case you're interested with me, i'm a person who is always curious about new things, especially if it's about big data and its implementation. My favorite things about me are i'm a fun person and always addicted to food. I'm currently open to work and developing my skills. If you're willing to reach me up, kindly hit me up on mail: arumkinanthi06@gmail.com
 
 Fun fact time! I'm a fast learner and strong-willed person, so don't be shy to connect with me ;D
 
